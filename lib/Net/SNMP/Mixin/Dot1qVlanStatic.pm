@@ -55,11 +55,11 @@ Net::SNMP::Mixin::Dot1qVlanStatic - mixin class for 802.1-Q static vlan infos
 
 =head1 VERSION
 
-Version 0.01_01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01_01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
