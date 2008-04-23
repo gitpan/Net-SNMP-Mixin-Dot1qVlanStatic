@@ -1,5 +1,8 @@
 Revision history for Net-SNMP-Mixin-Dot1qVlanStatic
 
+0.03	Mi 23. Apr 09:28:52 CEST 2008
+	Build.PL tweaks
+
 0.02	Mi 23. Apr 00:27:39 CEST 2008
 	First production release
 
